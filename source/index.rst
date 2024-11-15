@@ -5,11 +5,14 @@
 
 Winhall Fire Department
 =======================
+.. image:: _static/e4.jpg
+  :width: 700
+  :alt: Winhall Fire Department Engine 4
 
 Community Dedication
 --------------------
 
-For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and its surrounding communities.
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and their surrounding communities.
 
 Fire Officers
 -------------
@@ -97,15 +100,6 @@ E-Mail
 
 chiefs.winhallfd@gmail.com
 
-Social Media
-============
-We regularally post updates on our Facebook account.  Please follow us on Facebook.
-
-Facebook
---------
-
-`WinhallFD <https://www.facebook.com/WinhallFD/>`_
-
 Charitable Contributions
 ========================
 We encourge donations to support our mission to protect and better serve our communities. We are registered as a tax-exempt 501(c)(3) with the `State of Vermont <https://bizfilings.vermont.gov/online/BusinessInquire/BusinessInformation?businessID=46021>`_ and the `IRS <https://apps.irs.gov/pub/epostcard/dl/FinalLetter_03-0279094_WINHALLFIREDEPARTMENTINC_03212023_00.pdf>`_. Your contribution will be utilized to further our mission and is tax-deductible.
@@ -127,6 +121,15 @@ Electronic
 You can securely contribute to the Winhall Fire Department electronically by making a donation through `Stripe <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_:
 
 `https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_
+
+Online Media
+============
+We regularally post updates on our Facebook account.  Please follow us on Facebook.
+
+Facebook
+--------
+
+`WinhallFD <https://www.facebook.com/WinhallFD/>`_
 
 .. toctree::
    :maxdepth: 2
