@@ -12,7 +12,7 @@ Winhall Fire Department
 Community Dedication
 --------------------
 
-For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and their surrounding communities.
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and their surrounding communities.
 
 Fire Officers
 -------------
@@ -42,9 +42,9 @@ Exective Officers
    "Zander Wekstein", "Vice President"
    "Michael J. Mavroudis", "Secretary"
    "Sara Avison", "Treasurer"
+   "Randy Amaden", "Trustee"
    "Pat Salo", "Trustee"
    "Mark Weikert", "Trustee"
-   "", "Trustee"
 
 Members
 -------
@@ -124,12 +124,15 @@ You can securely contribute to the Winhall Fire Department electronically by mak
 
 Media
 =====
-We regularally post updates on our Facebook account.  Please follow us on Facebook.
 
 Facebook
 --------
+We regularally post updates on our `Facebook account <https://www.facebook.com/WinhallFD/>`_.  Please follow us on Facebook.
 
-`WinhallFD <https://www.facebook.com/WinhallFD/>`_
+Instragram
+----------
+
+We occationally post updates on our `Instagram account <https://www.instagram.com/winhallfd/>`_.  Please follow us on Instagram.
 
 .. toctree::
    :maxdepth: 2
