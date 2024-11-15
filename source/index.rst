@@ -122,8 +122,8 @@ You can securely contribute to the Winhall Fire Department electronically by mak
 
 `https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_
 
-Online Media
-============
+Media
+=====
 We regularally post updates on our Facebook account.  Please follow us on Facebook.
 
 Facebook
