@@ -1,0 +1,133 @@
+.. Winhall Fire Department documentation master file, created by Michael Mavroudis on Thu Nov  7 13:30:10 2019.
+   sphinx-quickstart on Thu Nov  7 13:30:10 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Winhall Fire Department
+=======================
+
+Community Dedication
+--------------------
+
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and its surrounding communities.
+
+Fire Officers
+-------------
+
+.. csv-table::
+   :header: "Name", "Title"
+   :widths:  100,100
+
+   "Steve Avison", "Chief"
+   "Elton Coleman", "1st. Assistant Chief"
+   "Hebert Huewes", "2nd. Assistant Chief"
+   "Randy Amaden", "1st. Captian"
+   "Mark Weikert", "2nd. Captain"
+   "Keenan Hoffman", "Lieutenant"
+   "Stuart Coleman", "Safety Officer"
+   "Keenan Hoffman", "Training Officer"
+   "Mark Weikert", "Training Officer"
+
+Exective Officers
+-----------------
+
+.. csv-table::
+   :header: "Name", "Title"
+   :widths:  100,100
+
+   "Stuart Coleman", "President"
+   "Zander Wekstein", "Vice President"
+   "Michael J. Mavroudis", "Secretary"
+   "Sara Avison", "Treasurer"
+   "Pat Salo", "Trustee"
+   "Mark Weikert", "Trustee"
+   "", "Trustee"
+
+Members
+-------
+
+* Ameden, Randy
+* Apps, Tim
+* Avison, Sara
+* Avison, Steve
+* Boswell, Johnathan
+* Coleman, Elton
+* Coleman, Stuart
+* Curry, Brendan
+* Dryden, Levi
+* Dryden, Trevor
+* Folts, Matt
+* Hewes, Herb
+* Hibberd, Charlie
+* Hoffmann, Keenan
+* Lacasse, Jake
+* Mavroudis, Michael J.
+* Reichard, Mike
+* Salo, Pat
+* Salo, Pearl
+* Stark, Ronald
+* Vitti, Angela
+* Wadolowski, Wiktor
+* Weikert, Mark
+* Wekstein, Zander
+
+Junior Members
+--------------
+* Dryden, Garett
+* Mavroudis, Lily
+* Weikert, Harry
+
+Contact Information
+===================
+
+Mailing Address
+---------------
+
+| PO Box 141
+| Bondville, VT 05340
+
+Physical Address
+----------------
+
+| 107 Vermont Route 30
+| Bondville, VT  05340
+
+E-Mail
+------
+
+chiefs.winhallfd@gmail.com
+
+Social Media
+============
+We regularally post updates on our Facebook account.  Please follow us on Facebook.
+
+Facebook
+--------
+
+`WinhallFD <https://www.facebook.com/WinhallFD/>`_
+
+Charitable Contributions
+========================
+We encourge donations to support our mission to protect and better serve our communities. We are registered as a tax-exempt 501(c)(3) with the `State of Vermont <https://bizfilings.vermont.gov/online/BusinessInquire/BusinessInformation?businessID=46021>`_ and the `IRS <https://apps.irs.gov/pub/epostcard/dl/FinalLetter_03-0279094_WINHALLFIREDEPARTMENTINC_03212023_00.pdf>`_. Your contribution will be utilized to further our mission and is tax-deductible.
+
+Check
+-----
+
+To donate by check please follow the instructions below:
+
+1. Make a check payable to "Winhall Fire Department"
+2. Optionally include the `donor form <_static/donor_form.pdf>`_.
+3. Mail check to:
+
+| PO Box 141
+| Bondville, VT 05340
+
+Electronic
+----------
+You can securely contribute to the Winhall Fire Department electronically by making a donation through `Stripe <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_:
+
+`https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
