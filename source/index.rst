@@ -5,14 +5,14 @@
 
 Winhall Fire Department
 =======================
-.. image:: _static/e4.jpg
+.. image:: static/e4.jpg
   :width: 700
   :alt: Winhall Fire Department Engine 4
 
 Community Dedication
 --------------------
 
-For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and their surrounding communities.
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to safeguard the homes, businesses, and individuals of Winhall Vermont and its surrounding communities.
 
 Fire Officers
 -------------
@@ -110,7 +110,7 @@ Check
 To donate by check please follow the instructions below:
 
 1. Make a check payable to "Winhall Fire Department"
-2. Optionally include the `donor form <_static/donor_form.pdf>`_.
+2. Optionally include the `donor form <static/donor_form.pdf>`_.
 3. Mail check to:
 
 | PO Box 141
