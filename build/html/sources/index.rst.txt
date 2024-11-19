@@ -5,14 +5,15 @@
 
 Winhall Fire Department
 =======================
-.. image:: _static/e4.jpg
+.. image:: static/e4.jpg
   :width: 700
   :alt: Winhall Fire Department Engine 4
+
 
 Community Dedication
 --------------------
 
-For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to to safeguard the homes, businesses, and individuals of Winhall Vermont, its hamlets and villages, and their surrounding communities.
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to safeguard the homes, businesses, and individuals of Winhall Vermont and its surrounding communities.
 
 Fire Officers
 -------------
@@ -80,6 +81,10 @@ Junior Members
 * Mavroudis, Lily
 * Weikert, Harry
 
+Join Us
+-------
+We are always looking for new volunteers to join our team.  If you are interested in applying, please fill out the `membership application <static/membership_application.pdf>`_ form.
+
 Contact Information
 ===================
 
@@ -110,7 +115,7 @@ Check
 To donate by check please follow the instructions below:
 
 1. Make a check payable to "Winhall Fire Department"
-2. Optionally include the `donor form <_static/donor_form.pdf>`_.
+2. Optionally include the `donor form <static/donor_form.pdf>`_.
 3. Mail check to:
 
 | PO Box 141
@@ -120,7 +125,12 @@ Electronic
 ----------
 You can securely contribute to the Winhall Fire Department electronically by making a donation through `Stripe <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_:
 
-`https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ <https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ>`_
+.. image:: static/qr_stripe.jpeg
+  :width: 250
+  :alt: Stripe QR Code
+  :align: center
+  :target: https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ
+
 
 Media
 =====
