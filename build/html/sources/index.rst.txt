@@ -7,8 +7,9 @@ Winhall Fire Department
 =======================
 .. image:: static/e4.jpg
   :width: 700
+  :align: center
   :alt: Winhall Fire Department Engine 4
-
+|
 
 Community Dedication
 --------------------
@@ -110,7 +111,7 @@ You can securely contribute to the Winhall Fire Department electronically by mak
   :alt: Stripe QR Code
   :align: center
   :target: https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ
-
+|
 
 Contact Information
 ===================
