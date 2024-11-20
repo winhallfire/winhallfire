@@ -59,3 +59,6 @@ html_static_path = ['static']
 
 # test
 master_doc = 'index'
+
+# Favicon
+html_favicon = 'static/favicon.png'
