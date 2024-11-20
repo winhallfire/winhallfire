@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'Winhall Fire Department'
-copyright = '1964, Winhall Fire Department'
+copyright = '1964 - 2024, Winhall Fire Department, Inc'
 author = 'WFD'
 
 

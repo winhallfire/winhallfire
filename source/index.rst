@@ -113,8 +113,8 @@ You can securely contribute to the Winhall Fire Department electronically by mak
   :target: https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ
 |
 
-Contact Information
-===================
+Contact
+=======
 
 Mailing Address
 ---------------
