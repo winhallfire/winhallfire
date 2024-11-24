@@ -1,7 +1,7 @@
 Source
 ======
 
-👀 The full source and build information for the [WFD website](http://www.winhallfire.org) with the published source [repot](https://github.com/winhallfire/winhallfire.github.io). The website was built with [Read the Docs](https://docs.readthedocs.io/en/stable/) and is hosted by GitHub.
+👀 The full source and build information for the [WFD website](http://www.winhallfire.org) with the published source [repo](https://github.com/winhallfire/winhallfire.github.io). The website was built with [Read the Docs](https://docs.readthedocs.io/en/stable/) and is hosted by GitHub.
 
  Dependencies
  ============
