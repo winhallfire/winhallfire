@@ -11,7 +11,7 @@ Line Officers
    "Steve Avison", "Chief"
    "Elton Coleman", "1st. Assistant Chief"
    "Hebert Huewes", "2nd. Assistant Chief"
-   "Randy Amaden", "1st. Captian"
+   "Randy Ameden", "1st. Captian"
    "Mark Weikert", "2nd. Captain"
    "Keenan Hoffman", "Lieutenant"
    "Stuart Coleman", "Safety Officer"
@@ -29,7 +29,7 @@ Exective Officers
    "Zander Wekstein", "Vice President"
    "Michael J. Mavroudis", "Secretary"
    "Sara Avison", "Treasurer"
-   "Randy Amaden", "Trustee"
+   "Randy Ameden", "Trustee"
    "Pat Salo", "Trustee"
    "Mark Weikert", "Trustee"
 

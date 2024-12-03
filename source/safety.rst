@@ -87,3 +87,12 @@ Light the fire from the top, allowing it to burn downward. Keep the damper open 
 If you need to dispose of ashes, proceed with caution. Ashes can retain heat for hours or even days. Use a metal shovel to transfer ashes to a metal container with a secure lid, and store it outdoors away from buildings, decks, or garages to prevent accidental fires.
 
 Source `How to Use a Fireplace <https://www.bobvila.com/articles/how-to-use-a-fireplace/>`_
+
+Knox Boxes
+----------
+
+Knox boxes are crucial for residential access as they provide secure, immediate entry for emergency responders during critical situations. By storing keys or access cards in a tamper-proof box, these systems eliminate delays caused by locked doors, ensuring rapid response to fires, medical emergencies, or other urgent scenarios, ultimately protecting lives and property.
+
+On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/WinhallAlarmOrdinance24.pdf>`_ that requires any freestanding building equipped with an automatic fire alarm system or burglar alarm to also have a key box (Knox Box) installed. This secure box must contain labeled keys that provide access to the building and any locked areas within it, ensuring first responders can enter without causing damage.  The property owners must coordinate with the Winhall Fire Department to purchase and install an approved key box, which must also include updated contact information for the property owner and caretaker.
+
+Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_.
