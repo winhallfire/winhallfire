@@ -14,9 +14,9 @@ Winhall Fire Department
 Community Dedication
 --------------------
 
-For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, medical emergencies, and natural disasters. Our dedicated team of 100% volunteer responders operates continuously, risking their lives to safeguard the homes, businesses, and individuals of Winhall Vermont and its surrounding communities.
+For more than 60 years, the Winhall Fire Department has been proudly providing its services to our community by responding to fires, accidents, and natural disasters. Our dedicated team of volunteer responders operates continuously, risking their lives to safeguard the homes, businesses, and individuals of Winhall Vermont and its surrounding communities.
 
-Fire Officers
+Line Officers
 -------------
 
 .. csv-table::
@@ -111,7 +111,6 @@ You can securely contribute to the Winhall Fire Department electronically by mak
   :alt: Stripe QR Code
   :align: center
   :target: https://donate.stripe.com/5kA6rxaGJ8xv9MsdQQ
-|
 
 Contact
 =======
@@ -144,4 +143,6 @@ We occationally post updates on our `Instagram account <https://www.instagram.co
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
+   safety
