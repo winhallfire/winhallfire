@@ -9,6 +9,7 @@ Winhall Fire Department
   :width: 700
   :align: center
   :alt: Winhall Fire Department Engine 4
+
 |
 
 Community Dedication
@@ -143,6 +144,6 @@ We occationally post updates on our `Instagram account <https://www.instagram.co
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Table of Contents
 
    safety
