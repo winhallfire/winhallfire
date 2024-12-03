@@ -93,6 +93,12 @@ Knox Boxes
 
 Knox boxes are crucial for residential access as they provide secure, immediate entry for emergency responders during critical situations. By storing keys or access cards in a tamper-proof box, these systems eliminate delays caused by locked doors, ensuring rapid response to fires, medical emergencies, or other urgent scenarios, ultimately protecting lives and property.
 
-On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/WinhallAlarmOrdinance24.pdf>`_ that requires any freestanding building equipped with an automatic fire alarm system or burglar alarm to also have a key box (Knox Box) installed. This secure box must contain labeled keys that provide access to the building and any locked areas within it, ensuring first responders can enter without causing damage.  The property owners must coordinate with the Winhall Fire Department to purchase and install an approved key box, which must also include updated contact information for the property owner and caretaker.
+On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/WinhallAlarmOrdinance24.pdf>`_ that requires any freestanding building equipped with an automatic fire alarm system or burglar alarm to also have a Knox Box installed. The box must contain labeled keys that provide access to the building and any locked areas within it, ensuring first responders can enter without causing damage.  The property owners must coordinate with the Winhall Fire Department to purchase and install an approved key box, which must also include up-to-date contact information for the property owner and caretaker when applicable.
 
-Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_.
+Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_ or by following the instructictions below:
+
+1. Visit `KNOXBOX.COM <https://www.knoxbox.com/>`_ and click on the red BUY button in the upper right corner.
+
+2. Using the dropdown fields select Vermont and Winhall Town.
+
+3. Select product and enter the corresponding installation address - proceed with checkout or eApproval.
