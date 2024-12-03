@@ -9,6 +9,7 @@ Winhall Fire Department
   :width: 700
   :align: center
   :alt: Winhall Fire Department Engine 4
+
 |
 
 Fire Safety

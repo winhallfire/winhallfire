@@ -8,5 +8,7 @@ rm -fR _images _static _sources
 perl -i -pe 's/"_/"/g' genindex.html
 perl -i -pe 's/"_/"/g' index.html
 perl -i -pe 's/"_/"/g' search.html
+perl -i -pe 's/"_/"/g' safety.html
+
 cd ../..
 
