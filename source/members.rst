@@ -18,8 +18,8 @@ Line Officers
    "Keenan Hoffman", "Training Officer"
    "Mark Weikert", "Training Officer"
 
-Exective Officers
------------------
+Executive Officers
+------------------
 
 .. csv-table::
    :header: "Name", "Title"
