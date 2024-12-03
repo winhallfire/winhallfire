@@ -97,7 +97,7 @@ On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/Winha
 
 Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_ or by following the instructictions below:
 
-1. Visit `KNOXBOX.COM <https://www.knoxbox.com/`_ and click on the red ``BUY`` button in the upper right corner.
+1. Visit `KNOXBOX.COM <https://www.knoxbox.com/>`_ and click on the red ``BUY`` button in the upper right corner.
 
 2. Using the dropdown fields select ``Vermont`` and ``Winhall Town``.
 
