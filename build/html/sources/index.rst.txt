@@ -5,6 +5,7 @@
 
 Winhall Fire Department
 =======================
+
 .. image:: static/e4.jpg
   :width: 700
   :align: center
@@ -143,7 +144,8 @@ Instragram
 We occationally post updates on our `Instagram account <https://www.instagram.com/winhallfd/>`_.  Please follow us on Instagram.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Table of Contents
+   :maxdepth: 3
+   :caption: Contents:
 
-   safety
+   Home <self>
+   Safety <safety>

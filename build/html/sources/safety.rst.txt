@@ -1,10 +1,6 @@
-.. Winhall Fire Department documentation master file, created by Michael Mavroudis on Thu Nov  7 13:30:10 2019.
-   sphinx-quickstart on Thu Nov  7 13:30:10 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Winhall Fire Department
 =======================
+
 .. image:: static/e4.jpg
   :width: 700
   :align: center
@@ -101,3 +97,7 @@ Light the fire from the top, allowing it to burn downward. Keep the damper open 
 If you need to dispose of ashes, proceed with caution. Ashes can retain heat for hours or even days. Use a metal shovel to transfer ashes to a metal container with a secure lid, and store it outdoors away from buildings, decks, or garages to prevent accidental fires.
 
 Source `How to Use a Fireplace <https://www.bobvila.com/articles/how-to-use-a-fireplace/>`_
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
