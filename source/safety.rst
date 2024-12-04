@@ -24,7 +24,7 @@ Proper maintenance of smoke and carbon monoxide detectors ensures your home stay
 - Frequency: Clean detectors every six months to remove dust, dirt, and cobwebs that may affect functionality.
 - How to Clean: Use a vacuum cleaner or a soft brush attachment to gently clean the detector's exterior and vents.
 
-4. How to Clean: Use a vacuum cleaner or a soft brush attachment to gently clean the detector's exterior and vents.
+4. Replacement Timeline
 
 - Smoke Detectors: Replace units every 10 years, as sensors degrade over time.
 - Carbon Monoxide Detectors: Replace units every 5–7 years, or as recommended by the manufacturer.
@@ -49,7 +49,7 @@ Proper maintenance of smoke and carbon monoxide detectors ensures your home stay
 
 By staying proactive with these maintenance practices, you can ensure your smoke and carbon monoxide detectors provide reliable protection for years to come.
 
-Source: `ChatGPT <https://chatgpt.com/>`_
+Source: `ChatGPT <https://chatgpt.com/share/67505ada-6e90-8006-9d5d-72df139fb296>`_
 
 Fireplace Safety
 ----------------
@@ -93,7 +93,8 @@ Knox Boxes
 
 Knox boxes are crucial for residential access as they provide secure, immediate entry for emergency responders during critical situations. By storing keys or access cards in a tamper-proof box, these systems eliminate delays caused by locked doors, ensuring rapid response to fires, medical emergencies, or other urgent scenarios, ultimately protecting lives and property.
 
-On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/WinhallAlarmOrdinance24.pdf>`_ that requires any freestanding building equipped with an automatic fire alarm system or burglar alarm to also have a Knox Box installed. The box must contain labeled keys that provide access to the building and any locked areas within it, ensuring first responders can enter without causing damage.  The property owners must coordinate with the Winhall Fire Department to purchase and install an approved key box, which must also include up-to-date contact information for the property owner and caretaker when applicable.
+.. note::
+   On April 17, 2024, the Town of Winhall enacted an `Alarm Ordinance <static/WinhallAlarmOrdinance24.pdf>`_ that requires any freestanding building equipped with an automatic fire alarm system or burglar alarm to also have a Knox Box installed. The box must contain labeled keys that provide access to the building and any locked areas within it, ensuring first responders can enter without causing damage.  The property owners must coordinate with the Winhall Fire Department to purchase and install an approved key box, which must also include up-to-date contact information for the property owner and caretaker when applicable.
 
 Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_ or by following the instructictions below:
 
