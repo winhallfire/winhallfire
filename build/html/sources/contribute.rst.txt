@@ -45,4 +45,4 @@ You can securely contribute to the Winhall Fire Department electronically by mak
 
 |
 
-Your generosity directly enhances the department's ability to serve and protect the Winhall community. Thank you for being a part of and helping us protect it!
+Your generosity directly enhances the department's ability to serve and protect Winhall Vermont and its surrounding communities. Thank you for helping us protect it!
