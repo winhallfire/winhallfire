@@ -10,9 +10,7 @@ Charitable Contributions
 Help Support Us!
 ----------------
 
-As you may know, our department operates largely on the generosity of our community members. Your donations ensure we have the resources to maintain our equipment, purchase new safety gear, and continue providing essential training for our volunteers.
-
-Your contribution will be utilized to further our mission to:
+As you may know, our department operates largely on the generosity of our community members. Your contribution will be utilized to further our mission to:
 
 - Purchase updated firefighting gear to protect our volunteers as they respond to emergencies.
 - Purchase, maintain, and upgrade essential equipment such as breathing apparatus, turnout gear, radios, pagers, and hoses.
