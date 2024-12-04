@@ -102,4 +102,6 @@ Instructions on ordering Knox Boxes can be found `here <static/Knox_order.pdf>`_
 
 2. Using the dropdown fields select ``Vermont`` and ``Winhall Town``.
 
-3. Select product and enter the corresponding installation address - proceed with checkout or eApproval.
+3. Select product and enter the corresponding installation address
+
+4. Proceed with checkout or eApproval to order the box.
