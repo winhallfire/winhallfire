@@ -17,7 +17,7 @@ As you may know, our department operates largely on the generosity of our commun
 - Fund training programs to ensure our team is prepared for any situation.
 - Contribute to our reserves.
 
-We are incredibly grateful for any support you can provide. Every bit helps us continue to serve and protect Winhall. You can donate by check or electronically by following the instructions below:
+We are incredibly grateful for any support you can provide. You can donate by check or electronically by following the instructions below:
 
 Check
 -----
