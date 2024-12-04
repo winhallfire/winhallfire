@@ -7,8 +7,8 @@ Charitable Contributions
 .. note::
    We are registered as a tax-exempt 501(c)(3) with the `State of Vermont <https://bizfilings.vermont.gov/online/BusinessInquire/BusinessInformation?businessID=46021>`_ and the `IRS <https://apps.irs.gov/pub/epostcard/dl/FinalLetter_03-0279094_WINHALLFIREDEPARTMENTINC_03212023_00.pdf>`_. Your contribution is fully tax-deductible.
 
-Support Us
-----------
+Help Support Us!
+----------------
 
 As you may know, our department operates largely on the generosity of our community members. Your donations ensure we have the resources to maintain our equipment, purchase new safety gear, and continue providing essential training for our volunteers.
 
