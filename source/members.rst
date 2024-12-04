@@ -1,3 +1,6 @@
+.. Winhall Fire Department documentation master file, created by Michael Mavroudis on Thu Nov  7 13:30:10 2024.
+   sphinx-quickstart on Thu Nov  7 13:30:10 2024.
+
 Department Membership
 =====================
 

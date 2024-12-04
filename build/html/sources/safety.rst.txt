@@ -1,3 +1,6 @@
+.. Winhall Fire Department documentation master file, created by Michael Mavroudis on Thu Nov  7 13:30:10 2024.
+   sphinx-quickstart on Thu Nov  7 13:30:10 2024.
+
 Fire Safety
 ===========
 
@@ -86,7 +89,7 @@ Light the fire from the top, allowing it to burn downward. Keep the damper open 
 
 If you need to dispose of ashes, proceed with caution. Ashes can retain heat for hours or even days. Use a metal shovel to transfer ashes to a metal container with a secure lid, and store it outdoors away from buildings, decks, garages, or brush to prevent accidental fires.
 
-Source `How to Use a Fireplace <https://www.bobvila.com/articles/how-to-use-a-fireplace/>`_
+Source: `How to Use a Fireplace <https://www.bobvila.com/articles/how-to-use-a-fireplace/>`_
 
 Knox Boxes
 ----------
