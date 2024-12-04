@@ -11,7 +11,7 @@ Your contribution will be utilized to further our mission to:
 - Purchase updated firefighting gear to protect our volunteers as they respond to emergencies.
 - Purchase, maintain, and upgrade essential equipment such as breathing apparatus, turnout gear, radios, pagers, and hoses.
 - Fund training programs to ensure our team is prepared for any situation.
-- Contribute to our reserves
+- Contribute to our reserves.
 
 .. note::
    We are registered as a tax-exempt 501(c)(3) with the `State of Vermont <https://bizfilings.vermont.gov/online/BusinessInquire/BusinessInformation?businessID=46021>`_ and the `IRS <https://apps.irs.gov/pub/epostcard/dl/FinalLetter_03-0279094_WINHALLFIREDEPARTMENTINC_03212023_00.pdf>`_. Your contribution is fully tax-deductible.
