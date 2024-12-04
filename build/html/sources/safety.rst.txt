@@ -74,7 +74,7 @@ If the chimney feels cold—common with exterior chimneys—you may need to prim
 
 5. Build the Fire
 
-For an efficient and low-maintenance fire, use the top-down method recommended by the CSIA:
+For an efficient and low-maintenance fire, use the top-down method:
 
 - Put large wood pieces at the base, perpendicular to the fireplace opening.
 - Stack medium-sized pieces on top in alternating directions, forming four or five layers.
@@ -84,7 +84,7 @@ Light the fire from the top, allowing it to burn downward. Keep the damper open 
 
 6. Safely Dispose of Ashes
 
-If you need to dispose of ashes, proceed with caution. Ashes can retain heat for hours or even days. Use a metal shovel to transfer ashes to a metal container with a secure lid, and store it outdoors away from buildings, decks, or garages to prevent accidental fires.
+If you need to dispose of ashes, proceed with caution. Ashes can retain heat for hours or even days. Use a metal shovel to transfer ashes to a metal container with a secure lid, and store it outdoors away from buildings, decks, garages, or brush to prevent accidental fires.
 
 Source `How to Use a Fireplace <https://www.bobvila.com/articles/how-to-use-a-fireplace/>`_
 
