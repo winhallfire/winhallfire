@@ -4,6 +4,9 @@
 Charitable Contributions
 ========================
 
+Support Us
+----------
+
 As you may know, our department operates largely on the generosity of our community members. Your donations ensure we have the resources to maintain our equipment, purchase new safety gear, and continue providing essential training for our volunteers.
 
 Your contribution will be utilized to further our mission to:
