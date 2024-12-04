@@ -4,6 +4,8 @@
 Charitable Contributions
 ========================
 
+We encourage donations to support our mission to protect and better serve our communities.
+
 Support Us
 ----------
 
